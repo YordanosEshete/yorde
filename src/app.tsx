@@ -100,6 +100,12 @@ export function App() {
                         tech={["Kotlin", "React Native"]}
                         github="https://github.com/ajkneisl/echoes"
                     />
+                    <Project
+                        title="Allersight"
+                        description="Top 10 hackathon project. Computer vision allergen detector for businesses and consumers."
+                        tech={["Computer Vision"]}
+                        website="https://allersight.com"
+                    />
                 </div>
             </section>
 
