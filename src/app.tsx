@@ -22,7 +22,6 @@ export function App() {
                         </p>
                         <div class="flex flex-wrap items-center gap-x-4 gap-y-1 mt-3 text-sm">
                             <ContactLink href="mailto:ygeshete@gmail.com">ygeshete@gmail.com</ContactLink>
-                            <ContactLink href="https://yorde.dev">yorde.dev</ContactLink>
                             <ContactLink href="https://github.com/YordanosEshete">github</ContactLink>
                             <ContactLink href="https://www.linkedin.com/in/yordanoseshete/">linkedin</ContactLink>
                         </div>
