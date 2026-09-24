@@ -200,7 +200,7 @@ function Entry({ title, location, subtitle, period, tech, logo, bullets, links }
                     src={logo}
                     alt=""
                     aria-hidden="true"
-                    class="w-11 h-11 object-contain shrink-0 mt-0.5"
+                    class="w-11 h-11 object-contain shrink-0 mt-0.5 rounded border border-gray-200 p-1"
                 />
             )}
             <div class="flex-1 min-w-0">
