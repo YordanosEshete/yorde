@@ -18,7 +18,7 @@ export function App() {
                             Yordanos Eshete
                         </h1>
                         <p class="text-sm text-gray-600 mt-1">
-                            Computer Science Student · University of Minnesota · US Citizen
+                            Computer Science Student · University of Minnesota
                         </p>
                         <div class="flex flex-wrap items-center gap-x-4 gap-y-1 mt-3 text-sm">
                             <ContactLink href="mailto:ygeshete@gmail.com">ygeshete@gmail.com</ContactLink>
